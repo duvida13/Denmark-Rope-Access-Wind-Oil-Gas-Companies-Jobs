@@ -40,4 +40,4 @@ These are ways to approach companies, not additional dated vacancies.
 - Momentum search results include advertisements with 2024 deadlines; these were not promoted as current jobs.
 - Skagensmaleren's advertised careers link timed out during retrieval. Company and careers link are retained without a live-vacancy claim.
 
-See [historical GitHub leads](inherited-leads.md) for 73 Danish-labelled historical records and [company directory](../directory/all-companies.md) for all 51 records.
+See [historical GitHub leads](inherited-leads.md) for 73 Danish-labelled historical records and [company directory](../directory/all-companies.md) for all 103 records.
